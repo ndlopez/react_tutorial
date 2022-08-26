@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+}
+th,td{
+  border:1px dashed #ddd;
+  padding:10px;
+  text-align: center;
+  background-color: #bed2e0;
+  color:#2e4054;
+}
