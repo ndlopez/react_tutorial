@@ -1,5 +1,7 @@
 # Getting Started with React App
 
+*From Tania Rascia's React Tutorial*
+
 ![Screenshot](public/app_prev.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
